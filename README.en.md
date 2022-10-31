@@ -12,7 +12,7 @@ This program is a voice cloning program that is improved based on the PaddleSpee
 3. Install PaddlePaddle and PaddleSpeech on https://www.paddlepaddle.org.cn/en according to your OS and CUDA version. If you are unfamiliar with CUDA, please select "CPU" on the "Compute Platform" column.
 4. Install NumPy, Soundfile, Spleeter and Yacs with the following command:
 ```shell
-python -m pip install numpy soundfile spleeter yacs -i https://pypi.tuna.tsinghua.edu.cn/simple -U
+python -m pip install numpy soundfile spleeter yacs -U
 ```
 
 ### Run
